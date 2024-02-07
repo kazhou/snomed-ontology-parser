@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATA_DIR=/data/joe/
+DATA_DIR=/data/karen
 
 cp $DATA_DIR/pym.sqlite3 $DATA_DIR/pym.sqlite3.bak
 rm  $DATA_DIR/pym.sqlite3
